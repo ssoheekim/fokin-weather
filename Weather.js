@@ -86,7 +86,7 @@ export default function Weather({ temp, condition }) {
           {weatherOptions[condition].subtitle}
         </Text>
       </View>
-    </LinearGradient>
+    </LinearGradient> 
   );
 }
 
